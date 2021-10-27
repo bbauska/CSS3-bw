@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>CSS3_B&W</title>
+  <title>Brian's Portfolio</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -14,7 +14,7 @@
 <body>
   <div id="main">
     <header>
-      <div id="logo"><h1>CSS3_<a href="#">B&amp;W</a></h1></div>
+      <div id="logo"><h1>Brian's Portfolio <a href="#">B&amp;W</a></h1></div>
       <nav>
         <ul class="lavaLampWithImage" id="lava_menu">
           <li><a href="index.html">home</a></li>
@@ -38,8 +38,8 @@
         <div class="sidebar">
           <h3>Latest News</h3>
           <h4>New Website Launched</h4>
-          <h5>January 1st, 2012</h5>
-          <p>2012 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+          <h5>October 27, 2021</h5>
+          <p>2021 launch date for Brian's Portfolio.<br /><a href="#">Read more</a></p>
         </div>
         <div class="sidebar">
           <h3>Useful Links</h3>
@@ -58,9 +58,9 @@
           // 1. Enter the email address you would like the enquiry sent to
           // 2. Enter the subject of the email you will receive, when someone contacts you
           // 3. Enter the text that you would like the user to see once they submit the contact form
-          $to = 'email@emailaddress.com';
-          $subject = 'Enquiry from the website';
-          $contact_submitted = 'Your message has been sent.';
+          $to = 'brian.bauska@gmail.com';
+          $subject = 'Enquiry from Brian''s Portfolio';
+          $contact_submitted = 'Your message has been sent.  Thanks a billion for all your time & care.';
 
           // Do not amend anything below here, unless you know PHP
           function email_is_valid($email) {
